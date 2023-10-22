@@ -52,7 +52,7 @@ sudo apt-get install jenkins
 
 
 2. ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/2.png)
-3. `Заполните здесь этапы выполнения, если требуется ....`
+3. `Выполнил Fork https://github.com/Replica63/Jenkins-8-02.md`
 4. `Заполните здесь этапы выполнения, если требуется ....`
 5. `Заполните здесь этапы выполнения, если требуется ....`
 6. 
