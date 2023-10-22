@@ -64,7 +64,7 @@ sudo apt-get install jenkins
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![alt text](https://github.com/Replica63/Jenkins-8-02.md/main/img/1.png)`
 
 
 ---
