@@ -63,8 +63,8 @@ sudo apt-get install jenkins
 ....
 ```
 
-`Скрин 1 к заданию 1
-![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/1.png)`
+`Скрин 1 к заданию 1`
+![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/1.png)
 
 
 ---
