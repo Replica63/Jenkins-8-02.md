@@ -46,7 +46,7 @@ sudo apt-get update
 sudo apt-get install jenkins
 ```
 `
-![alt text](https://github.com/Replica63/Jenkins-8-02.md/main/img/1.jpg)`
+![alt text](https://github.com/Replica63/Jenkins-8-02.md/main/img/1.png)`
 
 
 2. `Заполните здесь этапы выполнения, если требуется ....`
