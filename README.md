@@ -113,19 +113,37 @@ pipeline {
 
 1. ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/n1.png)
 2. ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/n2.png)
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+3. `Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.`
+```
+pipeline {
+    agent any
+    stages {
+        stage ('Git') {
+         steps { git 'https://github.com/Replica63/sdvps-materials.git'}
+        }
+        stage ('Test') {
+         steps {
+             sh '/usr/bin/go test .'
+         }
+        }
+        stage ('Build') {
+            steps {
+                sh '/usr/bin/go build -a -installsuffix nocgo -o main .'
+            }
+        }
+        stage ('Push') {
+            steps {
+                sh 'curl -u admin:admin --upload-file ./main http://127.0.0.53:8081/repository/Nexus/main'
+            }        
+        }
+    }
+}
+
 
 ```
-Поле для вставки кода...
-....
-....
-....
-....
-```
+4.![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/n3.png)
+  ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/n4.png) 
+  ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/n5.png)
+  ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/n6.png)
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
 
