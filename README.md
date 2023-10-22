@@ -111,8 +111,8 @@ pipeline {
 ### Решение 3
 
 
-1. ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/n.1.png)
-2. ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/n.2.png)
+1. ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/n1.png)
+2. ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/n2.png)
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
 5. `Заполните здесь этапы выполнения, если требуется ....`
