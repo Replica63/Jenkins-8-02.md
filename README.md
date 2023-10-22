@@ -45,8 +45,10 @@ https://pkg.jenkins.io/debian-stable binary/ | sudo tee \
 sudo apt-get update
 sudo apt-get install jenkins
 ```
-`
-![alt text](https://github.com/Replica63/Jenkins-8-02.md/main/img/1.png)`
+
+`Скрин 1 к заданию 1`                                    
+![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/1.png)
+
 
 
 2. `Заполните здесь этапы выполнения, если требуется ....`
@@ -64,7 +66,7 @@ sudo apt-get install jenkins
 ```
 
 `Скрин 1 к заданию 1`
-![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/1.png)
+![alt text](____)
 
 
 ---
