@@ -55,7 +55,7 @@ sudo apt-get install jenkins
 3. `Выполнил Fork https://github.com/Replica63/Jenkins-8-02.md`
 4. ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/3.png)
    ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/3.1.png)
-   ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/3/2.png)
+   ![alt text](https://github.com/Replica63/Jenkins-8-02.md/blob/main/img/3.2.png)
 
 
 
